@@ -1,12 +1,10 @@
 #-------------------------------------------------------------------------------
 # Name:        PYTHON_GAMESENSE
-# Purpose:     <TODO>
 #
 # Author:      Julius
 #
 # Created:     25/11/2015
 # Copyright:   (c) Julius 2015
-# Licence:     <TODO>
 #
 # GradientHandler      handler = self.build_handler("rgb-2-zone", "two", "color", {"gradient" : {"zero" : {"red" : 0, "green" : 0, "blue":0}, "hundred" : {"red" : r, "green" : g, "blue":b}}})
 # StaticColorHandler   handler = self.build_handler("rgb-2-zone", "two", "color", {"red" : r, "green" :g, "blue":b})
