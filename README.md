@@ -16,3 +16,9 @@ handler = self.build_handler("rgb-2-zone", "two", "color", {"gradient" : {"zero"
 
 #StaticColorHandler   
 handler = self.build_handler("rgb-2-zone", "two", "color", {"red" : r, "green" :g, "blue":b})</pre>
+
+<h2>Look at the code </h2>
+Take a look at the code. It is easy to understand and is friendly for newbies creating simple effects like the rgb rainbow that is already predefined. 
+
+<h2>Credits</h2>
+Project by Julius Hinze 2015. Feel free to clone and use the code as you want.
