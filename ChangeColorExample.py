@@ -2,8 +2,8 @@
 from io import StringIO
 import json
 
-#MY PYGAME SENSE MODULE
-import PyGameSense
+#GAMESENSE MODULE
+import pygamesense as PyGameSense
 
 GAME = "PYGS"
 COREPROPS = "C:/ProgramData/SteelSeries/SteelSeries Engine 3/coreProps.json"
